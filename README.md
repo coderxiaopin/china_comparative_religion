@@ -1,3 +1,9 @@
+> **DOI**: [10.5072/zenodo.400458](https://doi.org/10.5072/zenodo.400458)  
+> **Sandbox 发布**（测试环境，功能完整）
+
+核心观点：儒生 = 中国式Magi  
+从塞种人口传 → 董仲舒编译 → 曹髦崩溃 → 朱熹重启
+
 @software{cao_2025_farr,
   author = {Cao, Xiaopin},
   title = {Farr-Mandate Model: A Comparative Religious Framework},
