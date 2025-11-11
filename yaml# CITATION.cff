@@ -1,0 +1,34 @@
+# CITATION.cff - 直接复制到你的 GitHub 仓库根目录
+citation:
+  cff-version: 1.2.0
+  message: "If you use this theory, please cite it as below."
+  title: "【曹小品假说 v3.2】：琐罗亚斯德教与中国政治思想演化——从塞种人口传到理学重启"
+  authors:
+    - family-names: "曹"
+      given-names: "小品"
+      orcid: "https://orcid.org/0000-0000-0000-0000"  # 可选，建议注册
+      affiliation: "Independent Researcher, Singapore"
+      email: "c.xiaopin@protonmail.com"  # 可选
+  version: "3.2"
+  date-released: 2025-11-11
+  doi: "10.5281/zenodo.XXXXXXX"  # 上传后自动填充
+  license: "CC-BY-SA-4.0"
+  keywords:
+    - Zoroastrianism
+    - Mandate of Heaven
+    - Confucian Arbitration
+    - Silk Road Precursor
+    - Political Theology
+  references:
+    - type: article
+      authors:
+        - family-names: "Sima"
+          given-names: "Qian"
+      title: "Shiji · Da Yuan Liezhuan"
+      year: -91
+    - type: article
+      authors:
+        - family-names: "Ban"
+          given-names: "Gu"
+      title: "Hanshu · Dong Zhongshu Zhuan"
+      year: 111
