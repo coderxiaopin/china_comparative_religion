@@ -6,12 +6,10 @@ citation:
   authors:
     - family-names: "曹"
       given-names: "小品"
-      orcid: "https://orcid.org/0000-0000-0000-0000"  # 可选，建议注册
-      affiliation: "Independent Researcher, Singapore"
-      email: "c.xiaopin@protonmail.com"  # 可选
+      email: "xiaopincao@gmail.com"
   version: "3.2"
   date-released: 2025-11-11
-  doi: "10.5281/zenodo.XXXXXXX"  # 上传后自动填充
+  doi: "10.5281/zenodo.17576449" 
   license: "CC-BY-SA-4.0"
   keywords:
     - Zoroastrianism
