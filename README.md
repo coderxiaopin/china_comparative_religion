@@ -1,5 +1,4 @@
-[//]: # (> **DOI**: [10.5072/zenodo.400458]&#40;https://doi.org/10.5072/zenodo.400458&#41;  )
-> **DOI**: [10.5281/zenodo.14644328](https://doi.org/10.5281/zenodo.14644328)  
+> **DOI**: [10.5281/zenodo.14644328](https://doi.org/10.5281/zenodo.17595769)  
 > **开源地址**: https://github.com/coderxiaopin/zoroastrianism_impact_china  
 > **作者**: 曹小品（@c_xiaopin, Singapore）  
 > **许可**: CC-BY-4.0
@@ -57,7 +56,7 @@ CC-BY-4.0
 
 
 **标准引用格式**（Chicago 17th Author-Date）：  
-Cao, Xiaopin. 2025. “Farr and Mandate: A Comparative Religious Model of Political Legitimacy Cycles in China.” Zenodo. https://doi.org/10.5281/zenodo.14644328.
+Cao, Xiaopin. 2025. “Farr and Mandate: A Comparative Religious Model of Political Legitimacy Cycles in China.” Zenodo. https://doi.org/10.5281/zenodo.17595769.
 
 ---
 
