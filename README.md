@@ -2,7 +2,7 @@
 > **开源地址**: https://github.com/coderxiaopin/zoroastrianism_impact_china  
 > **作者**: 曹小品（@c_xiaopin, Singapore）  
 > **许可**: CC-BY-4.0
-
+https://zenodo.org/records/17595769
 ---
 
 **Farr and Mandate: A Comparative Religious Model of Political Legitimacy Cycles in China**
