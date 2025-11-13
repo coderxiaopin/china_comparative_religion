@@ -111,10 +111,6 @@ Cao, Xiaopin. 2025. “Farr and Mandate: A Comparative Religious Model of Politi
 ---
 
 **仓库结构**：  
-- `data/`：127条史料 CSV  
-- `docs/`：模型 + 章节  
-- `scripts/`：一键复现  
-- `output/`：图表
 
 欢迎 Issue / PR！  
 @c_xiaopin
